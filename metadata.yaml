@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41587
     wikipedia: http://en.wikipedia.org/wiki/James_Willard_Schultz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43399#Blackfeet-Tales-of-Glacier-National-Park
 gutenberg_issued: '2013-08-04'
 gutenberg_type: Text
 identifiers:
